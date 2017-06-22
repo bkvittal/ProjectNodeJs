@@ -1,0 +1,11 @@
+{
+  "name": "simpletestapp",
+  "version": "1.0.0",
+  "description": "a simple test app",
+  "main": "readingFileApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bkvittal",
+  "license": "ISC"
+}
